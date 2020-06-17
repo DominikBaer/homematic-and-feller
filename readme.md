@@ -7,7 +7,7 @@ Mechanically Feller provides switches which can mechanically configured as pushb
 
 Following appraoches have been tested successfully:
 
-## Feller Edizio Due Switch configured as push button 
+## Feller Edizio Due Switch configured as push button with HmIP-FSM16
 
 [<img src="pictures/58073366_xxl.jpg" width="250"/>](image.png)
 [<img src="pictures/DV_8_5023194_01_4c_CH_20180919104651.jpg" width="180"/>](image.png)  
@@ -27,16 +27,24 @@ From the [adapter kit](https://www.brack.ch/homematic-adapter-feller-ediziodue-f
 
 There are following components available from Homematic:
 
-1. Switch for HM IP, battery driven but could be complemented with a power supply
-2. Switch for HMIP Wired
+1. Switch HmIP-SMI55, battery driven but could be complemented with a power supply (HmIP-BBS)
+2. Switch HmIPW-SMI55 for HMIP Wired, bus driven
 
-## Feller Edizio Due / Uni in combination with Homematic universal switches HMIP-BSW
+There are many more 55er components, but most of them are too thick and therefore ugly.
+e.g. HmIP-WRC6
+
+## Feller Edizio Due / Uni in combination with Homematic universal switches HmIP-BSW
 
 [<img src="pictures/UNI_262A1_230x230px.jpg" width="250"/>](image.png)
 [<img src="pictures/142720_f01_geaktor_600x600.jpg" width="250"/>](image.png)
 The Feller Switches have terminals which can be connected (soldered) to the upper platine in the Homematic HMIP-BSM Switch. Best to buy the kit and not the complete switch. The 2 mini switches need to be removed and small wires soldered. This is not really difficult, but it is a bit of pain.
 
+If you do not need to actually switch current locally but only remotely this approach could be followed with the HmIP-FCI6 (but only battery driven) This would save soldering but gives you some headaches for the power supply.
+
 The HMIP-BSM and similar components cannot be integrated mechanically into the Feller Programm nicely and there are no adapters available. The adapters which have been created by 3rd Parties are just not comfortable to customize. It is probably a dead end from a design perspective.
+
+
+
 
 ## Feller Edizio Due / Uni in combination with Homematic Wired Switch HmIPW-FIO6
 
