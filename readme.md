@@ -30,7 +30,7 @@ There are following components available from Homematic:
 1. Switch for HM IP, battery driven but could be complemented with a power supply
 2. Switch for HMIP Wired
 
-## Feller Edizio Due / Uni in combination with Homematic universal switches
+## Feller Edizio Due / Uni in combination with Homematic universal switches HMIP-BSW
 
 [<img src="pictures/UNI_262A1_230x230px.jpg" width="250"/>](image.png)
 [<img src="pictures/142720_f01_geaktor_600x600.jpg" width="250"/>](image.png)
@@ -38,7 +38,7 @@ The Feller Switches have terminals which can be connected (soldered) to the uppe
 
 The HMIP-BSM and similar components cannot be integrated mechanically into the Feller Programm nicely and there are no adapters available. The adapters which have been created by 3rd Parties are just not comfortable to customize. It is probably a dead end from a design perspective.
 
-## Feller Edizio Due / Uni in combination with Homematic Wired Switch
+## Feller Edizio Due / Uni in combination with Homematic Wired Switch HmIPW-FIO6
 
 [<img src="pictures/IMG_7162.jpeg" width="250"/>](image.png)
 [<img src="pictures/IMG_7159.jpeg" width="250"/>](image.png)
@@ -46,6 +46,7 @@ The HMIP-BSM and similar components cannot be integrated mechanically into the F
 
 In this combination you get a great system which can react and display a status with the blue LEDs.
 I have soldered a 10k Ohm Resistor to protect the LEDs.
+1. HmIPW-FIO6
 
 
 
