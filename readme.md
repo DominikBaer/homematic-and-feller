@@ -57,6 +57,15 @@ I have soldered a 10k Ohm Resistor to protect the LEDs.
 1. HmIPW-FIO6
 
 
+## Open Wishes
+1. A not wired component like the HmIPW-FIO6 which can be driven by 230V.
+2. A simple sender which can transmit a voltage between 0...10V
+
+
+
+
+
+
 
 
 
