@@ -21,6 +21,7 @@ There is enough space available to put the HMIP-FSM16 actuator behind the mechan
 [<img src="pictures/153835_f03_gehmiptaster_600x600.jpg" width="250"/>](image.png)
 [<img src="pictures/51553818_xxl.jpg" width="250"/>](image.png)
 [<img src="pictures/IMG_7514.jpeg" width="200"/>](image.png)
+[<img src="pictures/IMG_7556.jpeg" width="180"/>](image.png)
 
 Youn need to cut the edges in the inner frame with a cutter or a saw.
 From the [adapter kit](https://www.brack.ch/homematic-adapter-feller-ediziodue-fuer-wm55-geraete-195447) you can add then the spacer which reduces the 60mm x 60mm inner frame to 56mm x56mm.
@@ -29,6 +30,7 @@ There are following components available from Homematic:
 
 1. Switch HmIP-SMI55, battery driven but could be complemented with a power supply (HmIP-BBS)
 2. Switch HmIPW-SMI55 for HMIP Wired, bus driven
+3. Switch HmIP-BSM which integrates nicely
 
 There are many more 55er components, but most of them are too thick and therefore ugly.
 e.g. HmIP-WRC6
