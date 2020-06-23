@@ -22,9 +22,15 @@ There is enough space available to put the HMIP-FSM16 actuator behind the mechan
 [<img src="pictures/51553818_xxl.jpg" width="250"/>](image.png)
 [<img src="pictures/IMG_7514.jpeg" width="200"/>](image.png)
 [<img src="pictures/IMG_7556.jpeg" width="180"/>](image.png)
+[<img src="pictures/IMG_7564.jpeg" width="180"/>](image.png)
+[<img src="pictures/IMG_7565.jpeg" width="180"/>](image.png)
+
 
 Youn need to cut the edges in the inner frame with a cutter or a saw.
 From the [adapter kit](https://www.brack.ch/homematic-adapter-feller-ediziodue-fuer-wm55-geraete-195447) you can add then the spacer which reduces the 60mm x 60mm inner frame to 56mm x56mm.
+As an alternative, you can use my stl file and print the spacer on a 3d printer.
+Download this *[STL-File](stl/EdizioDueSpaceV3.stl)*.
+
 
 There are following components available from Homematic:
 
